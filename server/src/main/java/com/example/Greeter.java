@@ -1,6 +1,6 @@
    /**
-   * Info about java package
-   */
+    * Info about java package
+    */
 package com.example;
 
 /**
