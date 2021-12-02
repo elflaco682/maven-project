@@ -1,6 +1,3 @@
-   /**
-    * Info about java package
-    */
 package com.example;
 
 /**
@@ -8,16 +5,16 @@ package com.example;
  */
 public class Greeter {
 
-   /**
-    * This is a constructor.
-    */
+/**
+ * This is a constructor.
+ */
   public Greeter() {
 
   }
-  /**
-   * @param someone name of person
-   * @return greeting string
-   */
+ /**
+  * @param someone name of person
+  * @return greeting string
+  */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
   }
