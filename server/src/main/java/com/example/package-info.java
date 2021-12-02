@@ -1,5 +1,5 @@
 /**
- * Domain classes used to produce the greater file. 
+ * Domain classes used to produce the greater file.
  * <p>
  * These classes contain the JAXB annotations.
  *
