@@ -1,7 +1,7 @@
    /**
     * Info about java package
     */
-package greater.java;
+package com.example;
 
 /**
  * This is a class.
